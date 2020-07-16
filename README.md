@@ -1,2 +1,0 @@
-# project
-made some samples
